@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a CS student at BTU tbilisi and currently learning python automation as a beginner.
+I am a CS student at BTU Tbilisi and currently learning Python automation as a beginner.
 <!--
 **Pico235/Pico235** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
